@@ -11,7 +11,7 @@ access.
 ### Working: 
 
 The Robot will be controlled by our Laptop through socket programming. The robot will be equipped with a camera and microphone. The camera will be used to stream the video to the laptop. The microphone will be used to stream the audio to the laptop. The laptop will be connected to the internet. The laptop will be connected to the robot through a local network. The Robot can transmit fm signals ie, we can create a remote FM channel. We can send a audio file through our laptop and start FM broadcast. The robot has a backtracking system with which it can relocate its starting point and come back automatically
-![localImage](./img/working.png)
+![localImage](./img/flow.png)
 
 
 ### Components: 
