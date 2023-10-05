@@ -6,12 +6,12 @@ instantly establish a reliable broadcast, spreading joy, music, news, and entert
 access.
 
 
-![localImage](./img/robot.jpg)
+![localImage](https://gcdnb.pbrd.co/images/ntu00HWJP5t7.jpg?o=1)
 
 ### Working: 
 
 The Robot will be controlled by our Laptop through socket programming. The robot will be equipped with a camera and microphone. The camera will be used to stream the video to the laptop. The microphone will be used to stream the audio to the laptop. The laptop will be connected to the internet. The laptop will be connected to the robot through a local network. The Robot can transmit fm signals ie, we can create a remote FM channel. We can send a audio file through our laptop and start FM broadcast. The robot has a backtracking system with which it can relocate its starting point and come back automatically
-![localImage](./img/working.jpg)
+![localImage](https://gcdnb.pbrd.co/images/E01EzB0kY98e.jpg?o=1)
 
 
 ### Components: 
@@ -27,7 +27,7 @@ The Robot will be controlled by our Laptop through socket programming. The robot
 10. Servo Motor
 11. Laptop
 
-![localImage](./img/flow.jpg)
+![localImage](https://gcdnb.pbrd.co/images/vnH7oF4DQrlm.jpg?o=1)
 
 
 
@@ -44,7 +44,7 @@ You have multiple server and client files namely:
 
 ## Output:
 
-![localImage](./img/output.jpg)
+![localImage](https://gcdnb.pbrd.co/images/nlxzXznqRFOu.jpg?o=1)
 
 Contact us for any further details
 rajendrakumarvesapog@gmail.com
