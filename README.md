@@ -6,7 +6,7 @@ instantly establish a reliable broadcast, spreading joy, music, news, and entert
 access.
 
 
-![localImage]([./img/robot.png](https://github.com/RajendraKumar123/RadioRover/img/image.jpg?raw=true))
+![localImage]([./img/robot.png](https://github.com/RajendraKumar123/RadioRover/img/flow.png?raw=true))
 
 ### Working: 
 
