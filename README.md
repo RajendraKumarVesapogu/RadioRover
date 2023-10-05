@@ -27,7 +27,7 @@ The Robot will be controlled by our Laptop through socket programming. The robot
 10. Servo Motor
 11. Laptop
 
-![localImage]([img/flow.png](https://github.com/RajendraKumar123/RadioRover/blob/main/img/flow.png))
+![localImage](img/flow.png)
 
 
 
